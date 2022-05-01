@@ -1,3 +1,3 @@
 # Flappy-Bird
-Teach Me Codind
+Teach Me Coding
 and i'll code for u;
